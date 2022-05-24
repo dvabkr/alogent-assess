@@ -1,0 +1,10 @@
+C:\Users\DBhaskar\Desktop\alogent-assessment\Src\Assessment.Web\bin\Debug\netcoreapp2.0\Assessment.Web.deps.json
+C:\Users\DBhaskar\Desktop\alogent-assessment\Src\Assessment.Web\bin\Debug\netcoreapp2.0\Assessment.Web.dll
+C:\Users\DBhaskar\Desktop\alogent-assessment\Src\Assessment.Web\bin\Debug\netcoreapp2.0\Assessment.Web.pdb
+C:\Users\DBhaskar\Desktop\alogent-assessment\Src\Assessment.Web\obj\Debug\netcoreapp2.0\Assessment.Web.csproj.AssemblyReference.cache
+C:\Users\DBhaskar\Desktop\alogent-assessment\Src\Assessment.Web\obj\Debug\netcoreapp2.0\Assessment.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBhaskar\Desktop\alogent-assessment\Src\Assessment.Web\obj\Debug\netcoreapp2.0\Assessment.Web.AssemblyInfoInputs.cache
+C:\Users\DBhaskar\Desktop\alogent-assessment\Src\Assessment.Web\obj\Debug\netcoreapp2.0\Assessment.Web.AssemblyInfo.cs
+C:\Users\DBhaskar\Desktop\alogent-assessment\Src\Assessment.Web\obj\Debug\netcoreapp2.0\Assessment.Web.csproj.CoreCompileInputs.cache
+C:\Users\DBhaskar\Desktop\alogent-assessment\Src\Assessment.Web\obj\Debug\netcoreapp2.0\Assessment.Web.dll
+C:\Users\DBhaskar\Desktop\alogent-assessment\Src\Assessment.Web\obj\Debug\netcoreapp2.0\Assessment.Web.pdb
